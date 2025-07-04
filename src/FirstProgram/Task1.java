@@ -1,3 +1,5 @@
+package FirstProgram;
+
 import java.util.ArrayList;
 
 abstract class AlcoholDrink {
